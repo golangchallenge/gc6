@@ -59,6 +59,8 @@ applications and web services.
 
 **Requirements of the challenge**
 
+<img width="482" alt="maze" src="https://cloud.githubusercontent.com/assets/173412/9589016/95282588-4ff9-11e5-8b86-18c0e1d1f227.png">
+
 You will be given incomplete source code for application which you must complete. The structure and scaffolding of the application is there for you already done, but the critical logic is missing.
 
 You will communicate with your opponent bot over a REST API. A
