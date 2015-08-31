@@ -11,7 +11,7 @@ which will compete head to head with all of the other participants.
 
 **Bot 1. Daedalus**
 
-![labyrinth](https://raw.github.com/golangchallenge/gc6/master/resources/labyrinth.jpg)
+![labyrinth](https://cloud.githubusercontent.com/assets/173412/9587928/39240f64-4ff3-11e5-81a4-1c3c3b53883e.jpg)
 
 Daedalus's job is to create a challenging Labyrinth for his opponent
 (shadow Icarus) to solve. The Labyrinth must be 15 cells by 10 cells.
@@ -23,7 +23,7 @@ also be in a random location that is accessible to Icarus.
 
 **Bot 2. Icarus**
 
-![icarus](https://raw.github.com/golangchallenge/gc6/master/resources/icarus-and-daedalus.jpg)
+![icarus-and-daedalus](https://cloud.githubusercontent.com/assets/173412/9587929/3927a93a-4ff3-11e5-93ef-63d572d719f7.jpg)
 
 Icarus wakes up to find himself inside of a dark Labyrinth.  Due to
 the darkness of the Labyrinth he can only see his immediate room and
