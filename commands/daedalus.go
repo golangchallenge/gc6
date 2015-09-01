@@ -144,6 +144,7 @@ func MoveDirection(c *gin.Context) {
 		r.Error = true
 		r.Message = err.Error()
 		c.JSON(409, r)
+		return
 	}
 
 	s, e := currentMaze.LookAround()
